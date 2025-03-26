@@ -1,6 +1,5 @@
 ## `README.md`
 
-```markdown
 # Dark Horizon 🔒
 
 An advanced anonymity and security tool for Kali Linux. This script provides multiple features such as IP spoofing, MAC address randomization, log clearing, anti-MITM detection, and more.
@@ -19,8 +18,7 @@ An advanced anonymity and security tool for Kali Linux. This script provides mul
 1. Clone the repository:
    ```bash
    git clone https://github.com/Arcy-me/Dark_Horizon.git
-   cd Dark_Horizon
-   ```
+
 
 2. Run the installer:
    ```bash
