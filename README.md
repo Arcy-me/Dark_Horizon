@@ -19,7 +19,6 @@ An advanced anonymity and security tool for Kali Linux. This script provides mul
    ```bash
    git clone https://github.com/Arcy-me/Dark_Horizon.git
 
-
 2. Run the installer:
    ```bash
    chmod +x install.sh
