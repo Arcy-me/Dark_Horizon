@@ -159,7 +159,7 @@ echo "
 "
 while true; do
 
-    echo "\n==================== Anonymity Tool ===================="
+    echo "==================== Anonymity Tool ===================="
     echo "1. IP Changer"
     echo "2. MAC Changer"
     echo "3. Log Killer"
