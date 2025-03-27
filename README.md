@@ -1,5 +1,3 @@
-## `README.md`
-
 # Dark Horizon 🔒
 
 An advanced anonymity and security tool for Kali Linux. This script provides multiple features such as IP spoofing, MAC address randomization, log clearing, anti-MITM detection, and more.
